@@ -1,0 +1,7 @@
+{
+  "name": "haechy",
+  "owner": { "name": "Haechy", "url": "https://haechy.com" },
+  "plugins": [
+    { "name": "haechy", "source": "./", "description": "Host apps you build with Claude: database, team sign-in, backups, approved-only outside connections." }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "haechy": { "type": "http", "url": "https://mcp.haechy.com/mcp" }
+  }
+}

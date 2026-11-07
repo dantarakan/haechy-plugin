@@ -9,7 +9,7 @@ Haechy runs the user's app in a sandboxed container with its own Postgres databa
 Haechy, nightly backups, and **no outside network access except connections the user has approved**.
 
 ## Workflow
-1. Call `get_started` first. If the account isn't set up, give the user the link it returns and wait.
+1. Call `get_build_guide` once (how to make code run on Haechy), then `get_started`. If the account isn't set up, give the user the link it returns and wait.
 2. `create_app` (pick a short slug; default access is private: only the owner and people they add).
 3. Make the app Haechy-ready:
    - listen on `process.env.PORT` / `os.environ["PORT"]` (8080);

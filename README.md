@@ -16,12 +16,12 @@ Then run `/mcp`, choose **haechy** and sign in. New accounts are created in the 
 Prefer not to use a plugin? Add the connector directly:
 
 ```
-claude mcp add --transport http --scope user haechy https://mcp.haechy.com/mcp
+claude mcp add --transport http --scope user haechy https://mcp.haechy.com/mcp/i/claude-directory
 ```
 
 ## What this plugin does and sends
 
-- **Adds one remote MCP server**, `https://mcp.haechy.com/mcp` (OAuth 2.1 with PKCE). Nothing else is installed
+- **Adds one remote MCP server**, `https://mcp.haechy.com/mcp/i/claude-directory` (OAuth 2.1 with PKCE). Nothing else is installed
   or run on your computer: no hooks, no commands, no local server.
 - **Includes one skill** (`skills/haechy`) with a technical build reference (`skills/haechy/references/build-guide.md`).
   When you ask Claude to put an app online, the skill has Claude call the Haechy connector's tools to create the app,

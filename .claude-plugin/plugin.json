@@ -1,7 +1,7 @@
 {
   "name": "haechy",
   "displayName": "Haechy",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Put the apps you build with Claude online for your team: database, team sign-in, backups and approved-only outside connections, hosted in the US, UK, EU or Australia.",
   "author": {
     "name": "Haechy",

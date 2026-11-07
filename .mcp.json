@@ -1,5 +1,5 @@
 {
   "mcpServers": {
-    "haechy": { "type": "http", "url": "https://mcp.haechy.com/mcp" }
+    "haechy": { "type": "http", "url": "https://mcp.haechy.com/mcp/i/claude-directory" }
   }
 }

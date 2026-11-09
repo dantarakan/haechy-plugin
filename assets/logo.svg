@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Haechy">
+  <title>Haechy</title>
+  <!-- A square seal impression in cinnabar seal paste (inju), cut "white text" style: the paper shows through. -->
+  <rect width="64" height="64" rx="3" fill="#D23A21"/>
+  <!-- The seal's rim: a paper keyline just inside the edge. -->
+  <rect x="4" y="4" width="56" height="56" rx="1.5" fill="none" stroke="#FFFFFF" stroke-width="2.2"/>
+  <g transform="translate(8.6 8.6) scale(.73)">
+    <!-- Haechi head, carved in straight cuts: one horn, two stepped mane tufts, broad cheeks to a firm chin. -->
+    <path fill="#FFFFFF" d="M32 5 36.6 15 44 10.4 54.6 12.2 55.8 22 51.4 26.2 52.2 38.2 44.4 51.6 32 58.4 19.6 51.6 11.8 38.2 12.6 26.2 8.2 22 9.4 12.2 20 10.4 27.4 15Z"/>
+    <!-- Eyes that look straight at you, the nose, and a closed mouth with a slight snarl. -->
+    <path fill="#D23A21" d="M16.6 29.6 27.8 31 26.8 35.2 18.6 34.2ZM47.4 29.6 36.2 31 37.2 35.2 45.4 34.2Z M27.6 41H36.4L32 46.6Z"/>
+    <path fill="none" stroke="#D23A21" stroke-width="3.2" d="M24.8 50.4 28.8 49.2 32 51.2 35.2 49.2 39.2 50.4"/>
+  </g>
+</svg>

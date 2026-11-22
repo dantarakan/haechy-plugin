@@ -21,6 +21,25 @@ You built a tracker, a form or a report with Claude Code, and now your colleague
 
 The free plan covers 2 apps and 5 people, no card needed.
 
+## Use Haechy in claude.ai, Claude Desktop or ChatGPT
+
+Haechy is a connector, so it works outside Claude Code too. You add it once, then ask in plain words ("Put my leave tracker online for my team with Haechy").
+
+**claude.ai and Claude Desktop** (any paid Claude plan; one setup covers both, and your phone):
+1. In claude.ai open **Customize > Connectors**, choose **+ Add**, then **Add custom connector**.
+2. Name: `Haechy`. Address: `https://mcp.haechy.com/mcp/i/github`
+3. Click **Connect**. A Haechy window opens: create your account with Google, Microsoft or email (or sign in), then approve.
+4. Start a new chat and ask Claude to put your app online.
+
+On Claude Team or Enterprise, an Owner adds the connector for the organization first. Step-by-step with screenshots: [Add Haechy to claude.ai](https://haechy.com/docs/connect/claude-ai?utm_source=github&utm_medium=readme&utm_campaign=haechy-plugin).
+
+**ChatGPT:**
+1. Open [chatgpt.com/plugins](https://chatgpt.com/plugins), click **+**, then **Add custom MCP server**.
+2. Name: `Haechy`. Connection: public endpoint `https://mcp.haechy.com/mcp/i/github`. Authentication: OAuth.
+3. Create it, sign in to Haechy in the window that opens, then start a new chat, type **@** and choose **Haechy**.
+
+More: [Add Haechy to ChatGPT](https://haechy.com/docs/connect/chatgpt?utm_source=github&utm_medium=readme&utm_campaign=haechy-plugin) · [Codex, VS Code, Cursor and others](https://haechy.com/docs?utm_source=github&utm_medium=readme&utm_campaign=haechy-plugin)
+
 ## Install in Claude Code
 
 ```
